@@ -1,0 +1,12 @@
+```gitignore
+# Bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Outros arquivos que você pode querer ignorar
+.DS_Store
